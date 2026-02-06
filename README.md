@@ -27,4 +27,4 @@ This work does not claim novelty of phenomenon, but formal isolation of a failur
 
 ## Citation
 When referencing this concept, cite as:  
-Epistemic Commitment Hazard (Marosi, YYYY).
+Epistemic Commitment Hazard (Marosi, 2026).
