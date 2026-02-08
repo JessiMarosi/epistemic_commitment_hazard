@@ -3,8 +3,18 @@
 ## Abstract
 This repository formally defines a previously unnamed class of institutional hazard arising from irreversible epistemic state transitions at the point of decision commitment. Unlike operational, compliance, or cybersecurity risk, this hazard does not result from error, violation, or system failure, but from loss of institutional knowledge that becomes unrecoverable once decisions harden into implementation.
 
-## Axiomatic Definition
-Institutions operate in epistemic states composed of known facts, assumptions treated as true, alternatives considered, and the rationale connecting these elements to adopted decisions. When a decision transitions from deliberation to operational commitment, epistemic decay occurs: assumptions are forgotten, alternatives disappear, and rationale fragments across time, systems, and personnel. Beyond a threshold, this epistemic state cannot be reconstructed from system behavior, documentation, or outcomes, even in compliant, well-functioning institutions.
+## Formal Definition (Axiomatic)
+
+An **Epistemic Commitment Hazard** exists when an institution transitions from deliberation to irreversible operational commitment in a manner that renders the pre-commitment epistemic state unrecoverable.
+
+An institutional epistemic state consists of:
+
+- Known facts and evidence available at the time,
+- Assumptions treated as provisionally true,
+- Alternatives considered and rejected,
+- The rationale linking these elements to the adopted decision.
+
+At the moment of commitment, **epistemic decay** occurs: assumptions are no longer tracked, alternatives disappear from institutional memory, and rationale fragments across time, systems, and personnel. Beyond a threshold, this epistemic state cannot be reconstructed from system behavior, documentation, approvals, or outcomes—even in compliant, well-functioning institutions.
 
 ## Ontological Classification
 This condition is classified as a hazard rather than a risk or failure. It is latent, non-probabilistic, and may never manifest as harm, yet constrains future auditability, accountability, and institutional adaptability under stress. The absence of immediate failure does not negate its presence.
